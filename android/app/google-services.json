@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552995074569",
+    "project_id": "attandance-checker",
+    "storage_bucket": "attandance-checker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552995074569:android:3d65a7969870155e897ed8",
+        "android_client_info": {
+          "package_name": "com.example.attendance_checker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552995074569-pl3s4m97l0vetj7bl7nj48oedrfejakg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAUsjvkQ3-qxMEbu3_Sx0QIwnDOtoz-88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552995074569-pl3s4m97l0vetj7bl7nj48oedrfejakg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
